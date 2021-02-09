@@ -1,8 +1,8 @@
 # 🎯💻 Advanced HTML Challenges 🏆🏅
 This repository contains Advanced HTML Challenges & a Wiki that has complete tutorial for HTML Advanced <br><br>
- ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/HTML-Challenges-Advanced?style=for-the-badge)
- ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/HTML-Challenges-Advanced?style=for-the-badge)
- [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/HTML-Challenges-Advanced?style=for-the-badge)](https://github.com/hridaya423/Competitive-Programming-Solutions/watchers)
+![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/HTML-Challenges-Advanced?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/HTML-Challenges-Advanced?style=for-the-badge)
+[![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/HTML-Challenges-Advanced?style=for-the-badge)](https://github.com/LearnEarn-Fun/HTML-Challenges-Advanced/watchers)
  <br><br>
 ![HTML-Challenges-Advanced](https://socialify.git.ci/LearnEarn-Fun/HTML-Challenges-Advanced/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
