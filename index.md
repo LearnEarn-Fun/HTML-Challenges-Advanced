@@ -9,8 +9,8 @@ This repository contains Advanced HTML Challenges & a Wiki that has complete tut
 
 ## Challenges:
 <ol>
- <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/Forms%20Challenges">HTML APIs</a></li>
- <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/HTML%20Emojis(UTF-8)">HTML Canvas</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Advanced/tree/main/HTML%20APIs">HTML APIs</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Advanced/tree/main/HTML%20Canvas">HTML Canvas</a></li>
 </ol>
 
 ## Want to Contribute to this repository?
